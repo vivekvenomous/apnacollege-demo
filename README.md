@@ -4,3 +4,5 @@ this is my first Git Repository
 Author= vivek kushwaha (venomous)
 author 2 = princess
 mai jeet ke dikhaUNGA   
+start kar diya hai
+kuch nhi raha
